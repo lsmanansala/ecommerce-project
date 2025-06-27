@@ -15,24 +15,11 @@ A modular, production-ready Express.js + TypeScript backend for an online store.
 
 ---
 
-## 📁 Project Structure
-
-ecomm-paas/
-├── src/
-│ └── index.ts # App entry point
-├── .env
-├── Dockerfile
-├── docker-compose.yml
-├── .dockerignore
-├── nodemon.json
-├── package.json
-├── tsconfig.json
-└── README.md
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/ecomm-paas.git
+
 cd ecomm-paas
 
 ### 2. Install dependencies
